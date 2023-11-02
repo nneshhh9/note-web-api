@@ -1,5 +1,5 @@
 # Backend-NoteWebAPI
-Сайта NoteWeb для заменток.
+API NoteWeb для заменток.
 
 ____
 
