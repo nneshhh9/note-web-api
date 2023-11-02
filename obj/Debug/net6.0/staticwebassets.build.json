@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9m9YMlMfFhKybiExavbF/Bd0h1PkGgwYasG5UFOB9Hs=",
+  "Source": "NoteWeb.API",
+  "BasePath": "_content/NoteWeb.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
